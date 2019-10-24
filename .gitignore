@@ -8,6 +8,7 @@
 *.ctxt
 
 #Out
+.idea
 out
 
 # Mobile Tools for Java (J2ME)
