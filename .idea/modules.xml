@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/File Reader.iml" filepath="$PROJECT_DIR$/File Reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file-reader.iml" filepath="$PROJECT_DIR$/file-reader.iml" />
     </modules>
   </component>
 </project>
