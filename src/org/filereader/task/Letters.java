@@ -1,4 +1,4 @@
-package sample;
+package org.filereader.task;
 
 public enum Letters {
     LETTER_A_G("answerA_G.txt", 'A', 'G'),

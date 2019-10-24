@@ -1,4 +1,4 @@
-package sample;
+package org.filereader.task;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;

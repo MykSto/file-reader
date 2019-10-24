@@ -5,5 +5,5 @@ module file.reader {
     requires java.logging;
 
 
-    opens sample;
+    opens org.filereader.task;
 }
