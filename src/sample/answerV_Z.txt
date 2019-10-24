@@ -1,0 +1,6 @@
+vv=4
+vvvvv=4
+w=1
+wwwwwwwwwwwwwwwwwwwwww=1
+wwwwwwwwwwwwwwwwwwwwwww=2
+xc=1

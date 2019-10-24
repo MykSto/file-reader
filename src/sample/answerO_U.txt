@@ -1,0 +1,6 @@
+opa=1
+popa=1
+r=1
+saras=1
+ssss=1
+usj=1
