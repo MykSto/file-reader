@@ -9,3 +9,7 @@ File Reader Application used to ceparate words into 4 intervals by its initial l
 2. Choose Files
 3. Sorted files will be uploaded to the same file directry
 ```
+# JavaFx setup
+```
+https://openjfx.io/openjfx-docs/
+````
