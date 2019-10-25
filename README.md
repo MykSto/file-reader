@@ -11,5 +11,5 @@ File Reader Application used to ceparate words into 4 intervals by its initial l
 ```
 # JavaFx setup
 
-[JavaFx library](https://openjfx.io/openjfx-docs/)
-
+1. Download - [JavaFx library](https://openjfx.io/openjfx-docs/)
+2. Follow the steps - [Configure](https://openjfx.io/openjfx-docs/#install-javafx)
