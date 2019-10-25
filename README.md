@@ -10,6 +10,6 @@ File Reader Application used to ceparate words into 4 intervals by its initial l
 3. Sorted files will be uploaded to the same file directry
 ```
 # JavaFx setup
-```
-[JavaFxlibrary](https://openjfx.io/openjfx-docs/).
-````
+
+[JavaFx library](https://openjfx.io/openjfx-docs/)
+
